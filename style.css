@@ -1,0 +1,22 @@
+*
+{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+ 
+}
+body{
+    overflow-x: hidden;
+}
+
+.carousel-item 
+{
+    width: 80%;
+    height:90vh;
+
+
+}
+.car-body img{
+    min-width: 50%;
+    max-height: 200px;
+}
